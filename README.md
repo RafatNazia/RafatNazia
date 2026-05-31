@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Rafat Nazia 👋
 
-<!--
-**RafatNazia/RafatNazia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Artificial Intelligence & Machine Learning @ DIT University
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Java
+- Python
+- SQL
+- C++
+- Machine Learning
+- Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Spring Boot
+- Backend Development
+- Data Science
+
+## 📌 Projects
+- Feedforward Neural Network for Breast Cancer Classification
+- Inventory Management System
+- Housing Price Prediction
+- Kruskal's & Prim's Algorithm Visualizer
+
+## 🏆 Certifications
+- Core Java Specialization (Coursera)
+- Database Management Essentials (Honors)
+- Data Analytics Essentials (Cisco)
+- Introduction to Data Science (Cisco)
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/rafatnazia
+- GitHub: github.com/RafatNazia
+
+⭐ Interested in AI/ML, Java Development, and Software Engineering.
