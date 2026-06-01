@@ -16,16 +16,17 @@
 - Data Science
 
 ## 📌 Projects
-- Feedforward Neural Network for Breast Cancer Classification
-- Inventory Management System
-- Housing Price Prediction
-- Kruskal's & Prim's Algorithm Visualizer
+✅ Feedforward Neural Network for Breast Cancer Classification (Python, TensorFlow)
+✅ Inventory Management System (Java, MySQL)
+✅ Housing Price Prediction (Python, Scikit-Learn)
+✅ Kruskal's & Prim's Algorithm Visualizer (Java)
 
 ## 🏆 Certifications
-- Core Java Specialization (Coursera)
-- Database Management Essentials (Honors)
-- Data Analytics Essentials (Cisco)
-- Introduction to Data Science (Cisco)
+✅ Introduction to Cloud Computing (NASSCOM)
+✅ Core Java Specialization (Coursera)
+✅ Database Management Essentials (Honors)
+✅ Data Analytics Essentials (Cisco)
+✅ Introduction to Data Science (Cisco)
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/rafatnazia
